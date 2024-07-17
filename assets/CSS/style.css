@@ -135,6 +135,10 @@ main {
     margin-bottom: 20px;
 }
 
+#benefits p {
+    padding: 0 20px;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
