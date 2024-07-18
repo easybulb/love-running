@@ -218,6 +218,35 @@ main {
     color: #3a3a3a;
 }
 
+/* Sign Up Page */
+
+/* Main content */
+main {
+    /* Enlarge main element to push footer down*/
+    flex: 1 0 auto;
+    /* Add margin at the top to prevent content from being covered by the header */
+    margin-top: 47px;
+    /* Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
+}
+
+#signup {
+    background-image: url('../images/signup-image.webp');
+    background-size: cover;
+    background-position: 75%;
+    flex-grow: 1;
+}
+
+#signup h2 {
+    color: #fafafa;
+}
+
+#signup-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+}
+
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
     #photos {
