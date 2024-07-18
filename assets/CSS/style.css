@@ -262,6 +262,12 @@ main {
     padding: 0 5px;
 }
 
+#radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
 
 
 /* Media query: large or landscape phones (576px and up) */
