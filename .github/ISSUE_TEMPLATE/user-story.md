@@ -9,7 +9,7 @@ assignees: ''
 
 Template content - As a **role** I can **capability** so that **received benefit**
 
-##Acceptance Criteria
+## Acceptance Criteria
 
 * Acceptance Criteria 1: 
 * Acceptance Criteria 2: 
